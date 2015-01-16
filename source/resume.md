@@ -54,4 +54,17 @@ Troubleshoot end user reports on the Definity PBX platform this included X.25 li
 ####Patent
 * [System and method for advertising using classification information - US 20100161414](http://www.google.com/patents/US20100161414)
 
-###### Last Updated (2015/01/02)
+####Presentations
+* [An Introduction To Yii Framework 2](https://speakerdeck.com/jasrags/14)
+* [What is security?](http://www.slideshare.net/jasrags/tulsa-techfest2010-security)
+* [Web speed and scalability](http://www.slideshare.net/jasrags/tulsa-tech-fest-2010-web-speed-and-scalability)
+* [Caching: A guided tour](http://www.slideshare.net/jasrags/caching-a-guided-tour-10122010)
+* [Dependency Injection](https://speakerdeck.com/jasrags/dependency-injection)
+* [TDD](https://speakerdeck.com/jasrags/test-driven-development)
+
+####Hobbies
+* Tae Kwon Do (WTF) - 1st Dan Black Belt
+* Recreational ice hockey
+* Board games
+
+###### Last Updated (2015/01/16)
