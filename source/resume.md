@@ -16,6 +16,9 @@ Scrum Alliance - (CSM) Certified Scrum Master
 * #####Software Engineer, Mashery (An Intel Company), Dallas TX — 2013-Present
 Currently a member of the WebApps team tasked with the customer web portal for our API management solution, have also worked with the Java API platform team and our JavaScript frontend team with our portal revamping effort.
 
+* #####Co-Organizer, DallasPHP Users Group & Lonestar PHP conference, Dallas, TX — 2003-2011, 2014-Present
+Responsible for setting up monthly presentations and organizing other aspects of the group. Presented on several topics over the years including: Propel ORM, PRADO Framework, Role vs. Task based permissions, Procedural vs. Object-Oriented Programming, CMS systems, MySQL, Yii Framework, Caching, and Security.
+
 * #####Lead Developer, Decisive Design, Allen TX — 2014-Present
 Currently the lead developer of custom client applications. Developed admin/frontend for Mobenu (http://Mobenu.com) a custom bar and restaurant mobile location management system.
 
@@ -28,9 +31,7 @@ Tasked with improving the workflow and processes of a online retail site includi
 * #####Sr. Technical Yahoo, Yahoo! Inc., Richardson, TX — 2007-2012
 Was a member of the knowledge and personalization team bringing deep Facebook and Twitter interactivity to all Yahoo platforms. Formerly a member of the video platform group from 2007-2011 providing video metadata to our players and partners. Designed and engineered a new data caching system to replace the legacy C++ application. Managed our server infrastructure of 100+ servers in 10 co-location across the globe. Designed and engineered multiple high-availability large scale applications for Yahoo!.
 
-* #####Co-Organizer, Dallas PHP/MySQL Users Group, Dallas, TX — 2003-2011
-Responsible for setting up monthly presentations and organizing all other aspects of the group. Presented on several topics over the years including: Propel ORM, PRADO Framework, Role vs. Task based permissions, Procedural vs. Object-Oriented Programming, CMS systems, MySQL, Yii Framework, Caching, and Security.
-Sr. Application Developer, Miracom Networks, Richardson, TX — 2006-2007
+* #####Sr. Application Developer, Miracom Networks, Richardson, TX — 2006-2007
 Managed a team of 3 developers, developed and maintained an enterprise level printer management solution. Planned and executed many individual features and enhancements such as: Hand Held Interface, PDF Exporting, and AJAX rendering of test results. Worked with my team to plan and execute a new reporting system and data abstraction model. Responsible for day-to-day operation of our Gentoo production and development web/database servers.
 
 * #####Sr. Application Development, Trailblazer Health, Dallas, TX — 2003-2006
@@ -67,4 +68,4 @@ Troubleshoot end user reports on the Definity PBX platform this included X.25 li
 * Recreational ice hockey
 * Board games
 
-###### Last Updated (2015/01/16)
+###### Last Updated (2015/02/09)
