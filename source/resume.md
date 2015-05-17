@@ -6,21 +6,24 @@ photoUrl: http://i.imgur.com/qSYvcrc.jpg
 ##Jason Ragsdale
 
 ####Skills
-* **Languages**: PHP, JavaScript, Java, C#, Ruby, SQL, HTML, CSS
+* **Languages**: PHP, GO, JavaScript, Java, C#, Ruby, SQL, HTML, CSS
 * **Databases**: MySQL, PostgreSQL, Oracle, MongoDB, SQLite, MS SQL Server
 * **Systems**: Linux, Unix, Windows, Mac OS X
 * **Tools**: Git, SVN, Apache, PHPStorm, PHPUnit, Behat
 Scrum Alliance - (CSM) Certified Scrum Master
 
 ####Experience
-* #####Software Engineer, Mashery (An Intel Company), Dallas TX — 2013-Present
-Currently a member of the WebApps team tasked with the customer web portal for our API management solution, have also worked with the Java API platform team and our JavaScript frontend team with our portal revamping effort.
+* #####Sr. Software Engineer, Ooyala, Dallas TX - 2015-Present
+Currently a member of the playback systems team tasked with converting backend video playback systems from ruby/rails to golang.
 
 * #####Co-Organizer, DallasPHP Users Group & Lonestar PHP conference, Dallas, TX — 2003-2011, 2014-Present
 Responsible for setting up monthly presentations and organizing other aspects of the group. Presented on several topics over the years including: Propel ORM, PRADO Framework, Role vs. Task based permissions, Procedural vs. Object-Oriented Programming, CMS systems, MySQL, Yii Framework, Caching, and Security.
 
 * #####Lead Developer, Decisive Design, Allen TX — 2014-Present
 Currently the lead developer of custom client applications. Developed admin/frontend for Mobenu (http://Mobenu.com) a custom bar and restaurant mobile location management system.
+
+* #####Software Engineer, Mashery (An Intel Company), Dallas TX — 2013-2015
+Was a member of the WebApps team tasked with the customer web portal for our API management solution, have also worked with the Java API platform team and our JavaScript frontend team with our portal revamping effort.
 
 * #####Sr. Programmer, iSight Partners, Dallas TX — 2012-2013
 Developed a replacement for a legacy portal system used to deliver threat intelligence to internal and external customers. This included a new email delivery system used to send reports to customers based on defined profiles, importing all report data into MongoDB for ease of use via a custom import process. Genericized common code to make testing and usability independent of any framework.
@@ -68,4 +71,4 @@ Troubleshoot end user reports on the Definity PBX platform this included X.25 li
 * Recreational ice hockey
 * Board games
 
-###### Last Updated (2015/02/09)
+###### Last Updated (2015/03/16)
